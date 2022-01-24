@@ -3,3 +3,12 @@
 .google-style{
     font-family: 'Mochiy Pop P One', sans-serif;
 }
+.fas{
+    color: rgb(223, 155, 223);
+}
+.card-border-radius{
+    border-radius: 20px;
+}
+.far{
+    color: white;
+}
